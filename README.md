@@ -31,4 +31,4 @@ Import the repository into Vercel. The included `vercel.json` selects Vite, runs
 
 Professional project screens are original illustrative diagrams, not internal company screenshots. Company source code is not included. Performance figures reflect the owner's supplied experience; revenue figures are intentionally not published on this portfolio.
 
-No phone number, CV file, analytics, tracking, or contact form backend is included. Contact links open the visitor's email application. The initials artwork can be replaced with a supplied portrait.
+No phone number, CV file, analytics, tracking, or contact form backend is included. Contact links open the visitor's email application. The hero uses the owner-supplied portrait in `public/rajnish-kumar.png`.
